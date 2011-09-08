@@ -1,0 +1,1 @@
+[4:32 PM Jun 20 2011] Notice: Use of undefined constant LE_NOTICE - assumed 'LE_NOTICE' IN /Users/siesqo2/Documents/My code library/02 PHP/03 FRAMEWORKS/SWAMI/02 SITE/frontend/views/index.php ON LINE 111

@@ -1,0 +1,4 @@
+*,html,body{margin:0px;padding:0px;}
+body{font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;font-size:12px;background-color:#ccc;}
+
+label{width:100%;display:block;}
